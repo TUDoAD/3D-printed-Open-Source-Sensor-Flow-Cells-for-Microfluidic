@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10591726.svg)](https://doi.org/10.5281/zenodo.10591726) 
 # 3D-printed-Open-Source-Sensor-Flow-Cells-for-Microfluidic
 Repository containing further material for publication "3D printed Open Source Sensor Flow Cells for Microfluidic Temperature, Electrical Conductivity, and pH Value Determination" in <em>J Flow Chem.</em> 
 
